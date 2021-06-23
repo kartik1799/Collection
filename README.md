@@ -1,1 +1,1 @@
-# Collection
+# Java Exercises
